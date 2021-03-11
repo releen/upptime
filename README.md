@@ -1,12 +1,12 @@
-# [📈 Live Status](https://pivotal.github.io/upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://releen.github.io): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Pivotal](https://pivotal.io/), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/pivotal/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/pivotal/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/pivotal/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/pivotal/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/pivotal/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/releen/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://github.com/releen/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Graphs CI](https://github.com/releen/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
+[![Static Site CI](https://github.com/releen/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Summary CI](https://github.com/releen/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/pivotal/upptime/issues) as incident reports, [Actions](https://github.com/pivotal/upptime/actions) as uptime monitors, and [Pages](https://pivotal.github.io/upptime) for the status page.
 
