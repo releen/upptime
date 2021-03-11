@@ -1,30 +1,22 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: pivotal # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: RelEng Concourse
+    url: https://releng.ci.cf-app.com
+  - name: TR2 Concourse
+    url: https://ci.prs.releng.rocks
+  - name: Pipestat
+    url: https://pipestat.releng.rocks
+  - name: Upgrade Planner
+    url: https://upgrade-planner.pivotal.io
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  apiBaseUrl: https://api.github.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -33,7 +25,9 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/pivotal/ppe-upptime
+    - title: Pipestat
+      href: https://pipestat.releng.rocks
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
