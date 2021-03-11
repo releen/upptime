@@ -1,5 +1,5 @@
 # Change these first
-owner: pivotal # Your GitHub username
+owner: releen # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
@@ -14,9 +14,10 @@ sites:
     url: https://upgrade-planner.pivotal.io
 
 status-website:
-  apiBaseUrl: https://api.github.com
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: uptime.releng.rocks
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -26,8 +27,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/pivotal/ppe-upptime
-    - title: Pipestat
-      href: https://pipestat.releng.rocks
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
