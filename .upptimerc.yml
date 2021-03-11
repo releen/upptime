@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Platform Provider Experience Status
   introTitle: "**PPE Status** monitors the health of our tools."
-  introMessage: If you want to add a new service to monitor, go to [the repo](https://github.com/releen/upptime/edit/main/.upptimerc.yml) and add a new service.
+  introMessage: If you want to add a new service to monitor, go to [the repo](https://github.com/releen/upptime/blob/main/.upptimerc.yml) and add a new service.
   navbar:
     - title: Status
       href: /
