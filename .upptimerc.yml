@@ -26,7 +26,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/pivotal/ppe-upptime
+      href: https://github.com/releen/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
