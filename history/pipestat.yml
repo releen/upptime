@@ -1,7 +1,7 @@
 url: https://pipestat.releng.rocks
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-03-11T23:57:27.525Z
-startTime: Thu Mar 11 2021 23:13:20 GMT+0000 (Coordinated Universal Time)
+status: up
+code: 200
+responseTime: 296
+lastUpdated: 2021-03-11T23:57:26.430Z
+startTime: Thu Mar 11 2021 23:13:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
