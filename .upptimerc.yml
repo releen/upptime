@@ -8,8 +8,6 @@ sites:
     url: https://releng.ci.cf-app.com
   - name: TR2 Concourse
     url: https://ci.prs.releng.rocks
-  - name: Pipestat
-    url: https://pipestat.ppxp.team
   - name: Upgrade Planner
     url: https://upgrade-planner.pivotal.io
   - name: Platform Automation Docs
