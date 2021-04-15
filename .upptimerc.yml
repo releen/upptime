@@ -9,13 +9,15 @@ sites:
   - name: TR2 Concourse
     url: https://ci.prs.releng.rocks
   - name: Pipestat
-    url: https://pipestat.releng.rocks
+    url: https://pipestat.ppxp.team
   - name: Upgrade Planner
     url: https://upgrade-planner.pivotal.io
+  - name: Platform Automation Docs
+    url: https://platform-automation.ci.cf-app.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: uptime.releng.rocks
+  cname: upptime.ppxp.team
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
