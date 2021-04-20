@@ -12,6 +12,12 @@ sites:
     url: https://upgrade-planner.pivotal.io
   - name: Platform Automation Docs
     url: https://platform-automation.ci.cf-app.com
+  - name: Tanzu Release Reliability API
+    url: https://core-api.tr2.io
+  - name: Tanzu Release Reliability Dashboard
+    url: https://dashboard.tr2.io
+  - name: ISV Dashboard
+    url: https://auth.isv.ci
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
