@@ -1,7 +1,7 @@
 url: https://auth.isv.ci
-status: up
-code: 200
-responseTime: 634
-lastUpdated: 2021-07-03T23:16:13.023Z
+status: down
+code: 504
+responseTime: 23677
+lastUpdated: 2021-07-04T14:42:26.151Z
 startTime: Tue Apr 20 2021 18:42:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
