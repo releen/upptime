@@ -112,17 +112,17 @@
     "url": "https://auth.isv.ci",
     "icon": "https://favicons.githubusercontent.com/auth.isv.ci",
     "slug": "isv-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 508,
-    "timeWeek": 669,
-    "timeMonth": 875,
-    "timeYear": 1055,
+    "time": 1042,
+    "timeDay": 1000,
+    "timeWeek": 772,
+    "timeMonth": 895,
+    "timeYear": 1056,
     "dailyMinutesDown": {}
   }
 ]
